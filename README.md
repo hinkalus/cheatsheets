@@ -1,5 +1,9 @@
 # Cheat sheets for anything
 
+## Science:
+### [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
+### [The Only Probability Cheatsheet You'll Ever Need](https://github.com/wzchen/probability_cheatsheet)
+
 ## Markdown: [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Git: [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
