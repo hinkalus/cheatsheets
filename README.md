@@ -1,10 +1,15 @@
 # Cheat sheets for anything
 
-## Markdown: [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## Markdown: [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Git: [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
 ## Vim: [Basic vim commands](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
+
+## Linux: 
+### Linux Terminal Cheat sheet: 
+- [Cheat sheet 1](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- [Cheat sheet 2](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ## ASP.NET:
 ### Core 2.2:
