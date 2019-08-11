@@ -1,14 +1,20 @@
 # Cheat sheets for anything
 
 ## Science:
-### [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
-### [The Only Probability Cheatsheet You'll Ever Need](https://github.com/wzchen/probability_cheatsheet)
+### [Data Science Cheat sheet](https://github.com/ml874/Data-Science-Cheatsheet)
+### [The Only Probability Cheat sheet You'll Ever Need](https://github.com/wzchen/probability_cheatsheet)
 
 ## Markdown: [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Git: [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
 ## Vim: [Basic vim commands](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
+
+## [LaTeX Cheat Sheet](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
+
+## Python
+### Pandas: [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+### Numpy: [Python For Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
 ## Linux: 
 ### Linux Terminal Cheat sheet: 
