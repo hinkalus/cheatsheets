@@ -20,6 +20,12 @@
 ### Linux Terminal Cheat sheet: 
 - [Cheat sheet 1](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [Cheat sheet 2](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+### Keyboard shortcuts: todo
+
+## Software keyboard shortcuts
+### Visual Studio: [Keyboard Shortcuts](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)
+### Visual Studio Code: [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) 
+### Pycharm: [Keyboard Shortcuts](https://www.shortcutfoo.com/app/dojos/pycharm-win/cheatsheet); [PDF](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 ## ASP.NET:
 ### Core 2.2:
