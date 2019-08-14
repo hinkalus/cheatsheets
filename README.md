@@ -23,6 +23,10 @@
 - [Cheat sheet 2](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 ### Keyboard shortcuts: todo
 
+##  Web
+### Javascript: [JS CheatSheet](https://htmlcheatsheet.com/js/)
+### jQuery: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
+
 ## Software keyboard shortcuts
 ### Visual Studio: [Keyboard Shortcuts](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)
 ### Visual Studio Code: [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) 
