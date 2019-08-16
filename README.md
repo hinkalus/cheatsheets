@@ -7,6 +7,10 @@
 ## Markdown: [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Git: [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- How to change the author of commits in your Git project:
+1. `git rebase -i HEAD~3` (for the last 3 commits)
+2. Under every `pick ...` (where one want to change): `exec git commit --amend --author="username <email@mail.com>" -C HEAD`
+3. `git push origin master --force`
 
 ## Vim: [Basic vim commands](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 
