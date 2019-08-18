@@ -41,3 +41,8 @@
 ### Core 2.2:
 - Extending ASP.NET Core 2.2 Identity Management [link](https://medium.com/@scottkuhl/extending-asp-net-core-2-2-identity-management-c3cc657cc448)
 - Host webproject for free: [Hosting ASP.NET Core on Heroku (with Docker&CircleCI) for free](https://codingblast.com/hosting-asp-net-core-on-heroku-with-dockercircleci-for-free/) ToDo: add own experience and comments... and fixes
+
+## Kaggle 
+[How to win a machine learning competition pavel pleskov](https://www.slideshare.net/DataFestTbilisi/how-to-win-a-machine-learning-competition-pavel-pleskov)
+[Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
+[Machine Learning Intro](https://github.com/ppleskov/vvedenie-mashinnoe-obuchenie)
