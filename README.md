@@ -42,6 +42,7 @@
 ### Core 2.2:
 - Extending ASP.NET Core 2.2 Identity Management [link](https://medium.com/@scottkuhl/extending-asp-net-core-2-2-identity-management-c3cc657cc448)
 - Host webproject for free: [Hosting ASP.NET Core on Heroku (with Docker&CircleCI) for free](https://codingblast.com/hosting-asp-net-core-on-heroku-with-dockercircleci-for-free/) ToDo: add own experience and comments... and fixes
+- Remember me problem after deploying: [Solution](https://stackoverflow.com/questions/46318461/asp-net-core-remember-me-persistent-cookie-not-works-after-deploy)
 
 ## Kaggle 
 [How to win a machine learning competition pavel pleskov](https://www.slideshare.net/DataFestTbilisi/how-to-win-a-machine-learning-competition-pavel-pleskov)
