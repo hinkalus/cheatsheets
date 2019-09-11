@@ -16,8 +16,10 @@
 
 ## [LaTeX Cheat Sheet](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
 
+## Regex Cheat Sheet: [Official](https://www.rexegg.com/regex-quickstart.html) [PDF](https://jrebel.com/wp-content/uploads/regular-expressions-cheat-sheet.pdf)
+
 ## Python
-### Python: [Cheat Sheat](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+### Python: [Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 ### Pandas: [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 ### Numpy: [Python For Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 ### Tkinter: [Cheat Sheet](https://engmrk.com/wp-content/uploads/2018/01/Tkinter-Cheat-Sheet.pdf)
