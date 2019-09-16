@@ -24,6 +24,7 @@
 ### Numpy: [Python For Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 ### Tkinter: [Cheat Sheet](https://engmrk.com/wp-content/uploads/2018/01/Tkinter-Cheat-Sheet.pdf)
 ### Seaborn: [Python For Data Science Cheat Sheet: Seaborn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+### Pytorch: [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 ## Linux: 
 ### Linux Terminal Cheat sheet: 
