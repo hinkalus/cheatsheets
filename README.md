@@ -26,6 +26,7 @@
 ### Seaborn: [Python For Data Science Cheat Sheet: Seaborn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 ### Pytorch: [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 ### Flask: [Introduction to Practical Flask](https://pythonprogramming.net/practical-flask-introduction/)
+### Django: [Cheat sheet](https://github.com/lucrae/django-cheat-sheet)
 
 ## Linux: 
 ### Linux Terminal Cheat sheet: 
