@@ -51,6 +51,6 @@
 - Remember me problem after deploying: [Solution](https://stackoverflow.com/questions/46318461/asp-net-core-remember-me-persistent-cookie-not-works-after-deploy)
 
 ## Kaggle 
-[How to win a machine learning competition pavel pleskov](https://www.slideshare.net/DataFestTbilisi/how-to-win-a-machine-learning-competition-pavel-pleskov)
-[Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
-[Machine Learning Intro](https://github.com/ppleskov/vvedenie-mashinnoe-obuchenie)
+[How to win a machine learning competition pavel pleskov](https://www.slideshare.net/DataFestTbilisi/how-to-win-a-machine-learning-competition-pavel-pleskov) \
+[Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) \
+[Machine Learning Intro](https://github.com/ppleskov/vvedenie-mashinnoe-obuchenie) 
