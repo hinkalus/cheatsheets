@@ -4,6 +4,7 @@
 ### [Data Science Cheat sheet](https://github.com/ml874/Data-Science-Cheatsheet)
 ### [The Only Probability Cheat sheet You'll Ever Need](https://github.com/wzchen/probability_cheatsheet)
 ### [Linear algebra Cheat Sheat](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
+### [Calculus Cheat Sheat](http://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf)
 
 ## Markdown: [Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
