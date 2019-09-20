@@ -41,6 +41,7 @@
 ##  Web
 ### Javascript: [JS CheatSheet](https://htmlcheatsheet.com/js/)
 ### jQuery: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
+### HTML: [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 
 ## Software keyboard shortcuts
 ### Visual Studio: [Keyboard Shortcuts](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)
