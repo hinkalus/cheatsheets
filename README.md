@@ -36,6 +36,8 @@
 - [Cheat sheet 2](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 ### Keyboard shortcuts: todo
 
+## SQL: [Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
+
 ##  Web
 ### Javascript: [JS CheatSheet](https://htmlcheatsheet.com/js/)
 ### jQuery: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
