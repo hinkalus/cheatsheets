@@ -38,6 +38,8 @@
 
 ## SQL: [Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
 
+## Haskell: [Cheat Sheet](https://fldit-www.cs.uni-dortmund.de/~peter/HaskellCheatSheet2.pdf)
+
 ##  Web
 ### Javascript: [JS CheatSheet](https://htmlcheatsheet.com/js/)
 ### jQuery: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
