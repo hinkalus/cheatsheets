@@ -52,6 +52,7 @@
 ### Visual Studio Code: [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) 
 ### Pycharm: [Keyboard Shortcuts](https://www.shortcutfoo.com/app/dojos/pycharm-win/cheatsheet); [PDF](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 ### Jupyter Notebook: [Keyboard Shorcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
+### Google Chrome: [Keyboard Shortcuts](https://www.computerhope.com/shortcut/chrome.htm)
 
 ## ASP.NET:
 ### Core 2.2:
