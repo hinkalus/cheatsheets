@@ -36,6 +36,8 @@
 - [Cheat sheet 2](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 ### Keyboard shortcuts: todo
 
+## Windows: [Keyboard shortcuts in Windows](https://turbofuture.com/computers/keyboard-shortcut-keys)
+
 ## SQL: [Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
 
 ## Haskell: [Cheat Sheet](https://fldit-www.cs.uni-dortmund.de/~peter/HaskellCheatSheet2.pdf)
