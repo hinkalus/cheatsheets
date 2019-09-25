@@ -43,9 +43,10 @@
 ## Haskell: [Cheat Sheet](https://fldit-www.cs.uni-dortmund.de/~peter/HaskellCheatSheet2.pdf)
 
 ##  Web
-### Javascript: [JS CheatSheet](https://htmlcheatsheet.com/js/)
-### jQuery: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
+### Javascript: [JS Cheat Sheet](https://htmlcheatsheet.com/js/)
+### jQuery: [jQuery Cheat Sheet](https://htmlcheatsheet.com/jquery/)
 ### HTML: [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+### Bootstrap: [Bootstrap Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## Software keyboard shortcuts
 ### Visual Studio: [Keyboard Shortcuts](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)
